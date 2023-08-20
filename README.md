@@ -1,3 +1,3 @@
 # radar
-Exported from RadarViewer
-Only BASF and Zoutedijk need to be updated (still /24)
+Exported from RadarViewer.
+Only BASF and Zoutedijk need to be updated (still /24).
